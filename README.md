@@ -28,6 +28,8 @@
 # Step 4 run npm install and npm run start
 *![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/7c59b0e6-286a-4715-a8a6-57e6d085101c)
 
+# Step 5 We need to expose Port 3000 in the Security Group to have access to the application
+ *![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/7298b355-b278-4716-89c8-8e08b971bf61)
 
 
 
