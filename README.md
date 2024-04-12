@@ -34,6 +34,8 @@
 
 # Congrat your Application is running on AWS now
 *![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/4fc311ed-de76-4763-8b83-87da474e9fbd)
+ # Dont forget to Terminate the Instance
+   ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/f2c41115-749f-45aa-9e58-2b6258857bc1)
 
 
 
