@@ -11,4 +11,9 @@
 # Step 2 go to local host:3000 to verify App is running
  *![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/6a6a9d9f-9975-415a-9931-7cea22c43736)
 
+# Step 3 Create a EC2 Instance in AWS
+![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/0a782b4d-d2c6-4cd6-9ee9-bf11d1789f5b)
+ * Login to your instance I will be SSH into the Instance
+ * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/c9bef1e4-4feb-43ae-ac78-a39d0d23e0d7)
+
 
