@@ -25,6 +25,8 @@
 * Clone the Repo
 * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/8d3d2809-2143-4c7c-8a33-0575bc2bc2a5)
 ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/3e822d75-e861-41c7-a468-48a80b6f7804)
+# Step 4 run npm install and npm run start
+*![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/7c59b0e6-286a-4715-a8a6-57e6d085101c)
 
 
 
