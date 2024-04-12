@@ -22,6 +22,8 @@
  * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/134b4016-07d6-42b0-93ea-5728da471d35)
 * download npm
 * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/f6630947-5445-4480-b70c-dd721db12509)
+* Clone the Repo
+* ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/8d3d2809-2143-4c7c-8a33-0575bc2bc2a5)
 
 
 
