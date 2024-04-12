@@ -30,6 +30,8 @@
 
 # Step 5 We need to expose Port 3000 in the Security Group to have access to the application
  *![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/7298b355-b278-4716-89c8-8e08b971bf61)
+ * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/5457af03-9d6c-4919-9112-d9c1bdfdf666)
+
 
 
 
