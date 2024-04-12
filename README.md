@@ -8,5 +8,7 @@
  *![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/f1db8d0f-8878-42e9-99ee-4afc3ab5fa69)
 * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/9aeb0fe3-3eea-4dff-92e5-0a844e4f840c)
 
+# Step 2 go to local host:3000 to verify App is running
+ *![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/6a6a9d9f-9975-415a-9931-7cea22c43736)
 
 
