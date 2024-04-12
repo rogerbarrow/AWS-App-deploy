@@ -18,6 +18,11 @@
  * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/9c707bd5-57e3-4472-b6d7-dae7a95a470b)
  * Congrat your Login in, Next lets update the package
  * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/25b8cfac-87b4-4d61-85f7-3c0dcafcd226)
+ * download node.js
+ * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/134b4016-07d6-42b0-93ea-5728da471d35)
+* download npm
+* ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/f6630947-5445-4480-b70c-dd721db12509)
+
 
 
 
