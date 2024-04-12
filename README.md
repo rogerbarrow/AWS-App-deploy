@@ -15,5 +15,7 @@
 ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/0a782b4d-d2c6-4cd6-9ee9-bf11d1789f5b)
  * Login to your instance I will be SSH into the Instance
  * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/c9bef1e4-4feb-43ae-ac78-a39d0d23e0d7)
+ * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/9c707bd5-57e3-4472-b6d7-dae7a95a470b)
+
 
 
