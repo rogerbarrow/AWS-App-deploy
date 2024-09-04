@@ -23,6 +23,7 @@ SECRET_KEY=""
 npm install
 npm run start
 ```
+![image](https://github.com/user-attachments/assets/e5950f7e-9940-4acc-a136-6786556d5a6b)
 
 ### Set up an AWS EC2 instance
 
