@@ -1,7 +1,21 @@
 # Deploying a Node Js Application on AWS EC2
-# Step 1 Testing the project locally
+### Step 1 Testing the project locally
 ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/37bc7c76-796b-46bf-897a-8c2ec637efb8)
 * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/d1b2c4f6-030c-4267-bd47-7dbabadcb661)
+
+1. Clone this project
+```
+git clone https://github.com/roger/AWS-App-deploy.git
+```
+2. Setup the following environment variables - `(.env)` file
+```
+DOMAIN= ""
+PORT=3000
+STATIC_DIR="./client"
+
+PUBLISHABLE_KEY=""
+SECRET_KEY=""
+```
   * because this is a JavaScript App we will require a  .env file
   * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/446633f1-b343-442b-b933-0bc37cc360c2)
  *![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/d0c0a0de-9c67-4b4a-873d-05d71c3c9d18)
