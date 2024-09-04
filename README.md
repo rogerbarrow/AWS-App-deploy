@@ -5,6 +5,8 @@
 ```
 git clone https://github.com/roger/AWS-App-deploy.git
 ```
+![image](https://github.com/user-attachments/assets/27f2d923-1a92-4ec7-bd89-55f49ea0d81a)
+
 2. Setup the following environment variables - `(.env)` file
 ```
 DOMAIN= ""
