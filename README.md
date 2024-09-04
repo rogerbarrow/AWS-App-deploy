@@ -16,6 +16,27 @@ STATIC_DIR="./client"
 PUBLISHABLE_KEY=""
 SECRET_KEY=""
 ```
+
+
+3. Initialise and start the project
+```
+npm install
+npm run start
+```
+
+### Set up an AWS EC2 instance
+
+1. Create an IAM user & login to your AWS Console
+    - Access Type - Password
+    - Permissions - Admin
+2. Create an EC2 instance
+    - Select an OS image - Ubuntu
+    - Create a new key pair & download `.pem` file
+    - Instance type - t2.micro
+3. Connecting to the instance using ssh
+```
+ssh -i instance.pem ubunutu@<IP_ADDRESS>
+```
   * because this is a JavaScript App we will require a  .env file
   * ![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/446633f1-b343-442b-b933-0bc37cc360c2)
  *![image](https://github.com/rogerbarrow/AWS-App-deploy/assets/46138186/d0c0a0de-9c67-4b4a-873d-05d71c3c9d18)
